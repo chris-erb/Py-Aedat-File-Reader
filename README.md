@@ -4,8 +4,6 @@
 This is a Python variation of https://github.com/Mibblez/aedat-file-reader-rs.
 
 Thank you, Anthony Beninati, for this code's base-framework in Rust.
-
-<br />
 <br />
 <br />
 <br />
