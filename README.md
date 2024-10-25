@@ -23,7 +23,7 @@ Working Directory: C:\Users\ **name**\PycharmProjects\aedat_file_converter
 <br />
 PNG PyCharm run config:
 
-Script: C:/Users/**name**/PycharmProjects/aedat_file_converter/run.py
+Script: C:/Users/ **name**/PycharmProjects/aedat_file_converter/run.py
 
 Parameters: --video --time_based --window-size 5000 --max-frames 50 --keep-frames --omit-video
 
@@ -34,9 +34,9 @@ Working Directory: C:\Users\ **name**\PycharmProjects\aedat_file_converter
 <br />
 AVI (video) PyCharm run config:
 
-Script: C:/Users/**name**/PycharmProjects/aedat_file_converter/run.py
+Script: C:/Users/ **name**/PycharmProjects/aedat_file_converter/run.py
 
 Parameters: --video --time_based --window-size 5000 --max-frames 50
 
-Working Directory: C:\Users\**name**\PycharmProjects\aedat_file_converter
+Working Directory: C:\Users\ **name**\PycharmProjects\aedat_file_converter
 
