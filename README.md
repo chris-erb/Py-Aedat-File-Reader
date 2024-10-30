@@ -25,6 +25,7 @@ Notes: First implementation.
 <br />
 <br />
 <br />
+--------------------------------------------------------------------
 **For use with the DVS120 and DVS240.**
 <br />
 <br />
