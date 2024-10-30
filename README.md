@@ -27,11 +27,36 @@ Notes: First implementation.
 <br />
 <br />
 --------------------------------------------------------------------
+
 **For use with the DVS120 and DVS240.**
+
 <br />
 <br />
 <br />
-## CSV run config:
+
+##General Run Configurations
+<br />
+###Build
+
+<br />
+###CSV Export
+
+
+<br />
+###AVI (Video) Export
+
+
+<br />
+###PNG,RAW (Image) Export
+
+<br />
+<br />
+<br />
+
+
+##PyCharm Run Configurations
+
+### CSV run config:
 
 Script: C:/Users/ **name**/PycharmProjects/aedat_file_converter/run.py
 
@@ -42,7 +67,7 @@ Working Directory: C:\Users\ **name**\PycharmProjects\aedat_file_converter
 <br />
 <br />
 <br />
-## PNG run config:
+### PNG run config:
 
 Script: C:/Users/ **name**/PycharmProjects/aedat_file_converter/run.py
 
@@ -53,7 +78,7 @@ Working Directory: C:\Users\ **name**\PycharmProjects\aedat_file_converter
 <br />
 <br />
 <br />
-## AVI (video) run config:
+### AVI (video) run config:
 
 Script: C:/Users/ **name**/PycharmProjects/aedat_file_converter/run.py
 
