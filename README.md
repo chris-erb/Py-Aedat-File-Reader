@@ -20,6 +20,8 @@ cerb01@manhattan.edu
 ### Verison History: 
 
 v1.0 - 10/25/2024
+
+Notes: First implementation.
 <br />
 <br />
 <br />
