@@ -85,3 +85,7 @@ Parameters: --video --time_based --window-size 5000 --max-frames 50
 
 Working Directory: C:\Users\ **name**\PycharmProjects\aedat_file_converter
 
+---
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
