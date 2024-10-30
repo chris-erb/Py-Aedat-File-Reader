@@ -34,20 +34,20 @@ Notes: First implementation.
 <br />
 <br />
 
-##General Run Configurations
+## General Run Configurations
 <br />
-###Build
+### Build
 
 <br />
-###CSV Export
-
-
-<br />
-###AVI (Video) Export
+### CSV Export
 
 
 <br />
-###PNG,RAW (Image) Export
+### AVI (Video) Export
+
+
+<br />
+### PNG,RAW (Image) Export
 
 <br />
 <br />
