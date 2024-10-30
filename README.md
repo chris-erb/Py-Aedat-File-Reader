@@ -1,12 +1,12 @@
 
 # AEDAT File Reader
 
-This is a Python variation of https://github.com/Mibblez/aedat-file-reader-rs.
+This is a Python variation of [Aedat File Reader Rs](https://github.com/Mibblez/aedat-file-reader-rs) for use with the DVS120 and DVS240.
 
 Thank you, Anthony Beninati, for this code's base-framework in Rust.
 <br />
-<br />
-<br />
+
+---
 
 ### Author: 
 
@@ -14,39 +14,38 @@ Christopher Erb
 
 cerb01@manhattan.edu
 <br />
-<br />
-<br />
+
+---
 
 ### Verison History: 
 
 **v1.0** - 10/25/2024
 
-Notes: First implementation.
+*Notes: First implementation.*
 
 <br />
-<br />
-<br />
---------------------------------------------------------------------
 
-**For use with the DVS120 and DVS240.**
+**v1.1** - 10/30/2024
 
-<br />
-<br />
-<br />
+*Notes: - Added functionality for converting from png to raw images.*
+
+---
 
 ## General Run Configurations
 <br />
+
 ### Build
 
 <br />
+
 ### CSV Export
 
-
 <br />
+
 ### AVI (Video) Export
 
-
 <br />
+
 ### PNG,RAW (Image) Export
 
 <br />
@@ -54,7 +53,7 @@ Notes: First implementation.
 <br />
 
 
-##PyCharm Run Configurations
+## PyCharm Run Configurations
 
 ### CSV run config:
 
