@@ -27,7 +27,7 @@ v1.0 - 10/25/2024
 <br />
 <br />
 <br />
-## CSV PyCharm run config:
+## CSV run config:
 
 Script: C:/Users/ **name**/PycharmProjects/aedat_file_converter/run.py
 
@@ -38,7 +38,7 @@ Working Directory: C:\Users\ **name**\PycharmProjects\aedat_file_converter
 <br />
 <br />
 <br />
-## PNG PyCharm run config:
+## PNG run config:
 
 Script: C:/Users/ **name**/PycharmProjects/aedat_file_converter/run.py
 
@@ -49,7 +49,7 @@ Working Directory: C:\Users\ **name**\PycharmProjects\aedat_file_converter
 <br />
 <br />
 <br />
-## AVI (video) PyCharm run config:
+## AVI (video) run config:
 
 Script: C:/Users/ **name**/PycharmProjects/aedat_file_converter/run.py
 
