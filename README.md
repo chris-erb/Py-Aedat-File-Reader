@@ -28,6 +28,7 @@ cerb01@manhattan.edu
 **v1.1** - 11/08/2024
 
 *Notes: - Added functionality for converting from png to raw images.*
+
 <br />
 
 **v1.2** - 11/~/2024 ~Future Update~
