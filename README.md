@@ -25,9 +25,14 @@ cerb01@manhattan.edu
 
 <br />
 
-**v1.1** - 10/30/2024
+**v1.1** - 11/08/2024
 
 *Notes: - Added functionality for converting from png to raw images.*
+<br />
+
+**v1.2** - 11/~/2024 ~Future Update~
+
+*Notes: - Added image zones corresponding to the output, which will count the number of events in the specified zone.*
 
 ---
 
