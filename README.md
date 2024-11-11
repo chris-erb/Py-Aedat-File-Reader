@@ -37,28 +37,6 @@ cerb01@manhattan.edu
 
 ---
 
-## General Run Configurations
-<br />
-
-### Build
-
-<br />
-
-### CSV Export
-
-<br />
-
-### AVI (Video) Export
-
-<br />
-
-### PNG,RAW (Image) Export
-
-<br />
-<br />
-<br />
-
-
 ## PyCharm Run Configurations
 
 ### CSV run config:
