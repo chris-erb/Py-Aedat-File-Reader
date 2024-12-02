@@ -31,9 +31,6 @@ cerb01@manhattan.edu
 
 <br />
 
-**v1.2** - 11/~/2024 ~ Future Update
-
-*Notes: - Added image zones corresponding to the output, which will count the number of events in the specified zone.*
 
 ---
 
