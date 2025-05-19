@@ -1,4 +1,4 @@
-
+* Known Issue: Image outputs can sometimes not be forced to 50 frames, see fix [here](https://github.com/chris-erb/Win-AEDAT-File-Reader).
 # AEDAT File Reader
 
 This is a Python variation of [Aedat File Reader Rs](https://github.com/Mibblez/aedat-file-reader-rs) for use with the DVS120 and DVS240.
